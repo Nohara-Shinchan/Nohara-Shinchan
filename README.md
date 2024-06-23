@@ -2,7 +2,7 @@
 <h1 align="center">Welcome to Your Developer Journey! 🚀</h1>
 
 <p align="center">
-  <img src="[https://placeimg.com/400/200/tech](https://cdn.mos.cms.futurecdn.net/AvhMPubBdEDQmMbwboro7Y.jpg)" alt="Tech Image">
+  <img src="https://cdn.mos.cms.futurecdn.net/AvhMPubBdEDQmMbwboro7Y.jpg" alt="Tech Image">
 </p>
 
 <p align="center">
