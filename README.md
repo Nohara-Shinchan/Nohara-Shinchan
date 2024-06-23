@@ -58,7 +58,7 @@ I'm a passionate developer just like you, navigating the vast world of programmi
 ## Conclusion
 
 <p align="center">
-  <img src="https://placeimg.com/480/320/tech/grayscale" alt="Happy Coding Image">
+  <img src="https://i.imgflip.com/4kfuzi.jpg" alt="Happy Coding Image">
 </p>
 
 <p align="center">
