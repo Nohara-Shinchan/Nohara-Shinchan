@@ -2,7 +2,7 @@
 <h1 align="center">Welcome to Your Developer Journey! 🚀</h1>
 
 <p align="center">
-  <img src="https://cdn.mos.cms.futurecdn.net/AvhMPubBdEDQmMbwboro7Y.jpg" style = "height = 500px" alt="Tech Image">
+  <img src="https://cdn.mos.cms.futurecdn.net/AvhMPubBdEDQmMbwboro7Y.jpg" height = 500px alt="Tech Image">
 </p>
 
 <p align="center">
