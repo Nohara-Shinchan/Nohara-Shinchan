@@ -1,5 +1,5 @@
 <!-- Add some ASCII art or an eye-catching title -->
-<h1 align="center">Welcome to Your Developer Journey! 🚀</h1>
+  <h1 align="center">Welcome to My Developer Journey! 🚀</h1>
 
 <p align="center">
   <img src="https://cdn.mos.cms.futurecdn.net/AvhMPubBdEDQmMbwboro7Y.jpg" height = 500px alt="Tech Image">
